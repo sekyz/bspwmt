@@ -1,2 +1,2 @@
 # bspwmt
-My Bspwm (Test) Files
+My Bspwm (Test) Dotfiles
